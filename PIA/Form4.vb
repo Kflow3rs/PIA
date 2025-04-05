@@ -20,4 +20,8 @@
         Me.Close()
 
     End Sub
+
+    Private Sub txtvelocidad_TextChanged(sender As Object, e As EventArgs) Handles txtvelocidad.TextChanged
+
+    End Sub
 End Class
